@@ -208,6 +208,9 @@ Add the following attribute mappings for Azure B2B:
 This B2B integration provides seamless authentication for external business partners while maintaining security and governance. Direct federation with Okta eliminates the need for external users to create separate Azure AD accounts, improving user experience and reducing administrative overhead.
 
 ## Additional Resources
+- [Add federation with SAML/WS-Fed identity providers](https://learn.microsoft.com/en-us/entra/external-id/direct-federation#step-1-determine-if-the-partner-needs-to-update-their-dns-text-records)
+
+- [Integration of Okta as an IdP for Microsoft Azure AD B2B](https://www.linkedin.com/pulse/integration-okta-idp-microsoft-azure-ad-b2b-carlos-segura-vidal-juope)
 
 - [Azure AD B2B External Identities Documentation](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/)
 - [Direct Federation with SAML/WS-Fed Identity Providers](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/direct-federation)
