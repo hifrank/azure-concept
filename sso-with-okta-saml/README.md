@@ -132,7 +132,7 @@ Add the following attribute mappings for Azure B2B:
    - User is redirected to Okta for authentication
    - Upon successful authentication, user is redirected back to Azure AD
    - For normal login process, make sure you specify organization to login![alt text](image-5.png)
-   ![alt text](image-6.png)![alt text](image-7.png), enter domain of your EntraID, which can be found in EntraID overview![alt text](image-8.png), then you will be prompt to enter identity again![alt text](image-9.png), make sure you entered the account match to **domain** you set in SAML domain. for ex. if your SAML settig is for xyz.com, then only when identity is under the same domain, ex,  test@xyz.com, will direct to SAML login you just configured. You can set multuple domains for the same SAML config though.
+   ![alt text](image-6.png)![alt text](image-7.png), enter domain of your EntraID, which can be found in EntraID overview![alt text](image-4.png), then you will be prompt to enter identity again![alt text](image-9.png), make sure you entered the account match to **domain** you set in SAML domain. for ex. if your SAML settig is for xyz.com, then only when identity is under the same domain, ex,  test@xyz.com, will direct to SAML login you just configured. You can set multuple domains for the same SAML config though.
 
 ## Troubleshooting
 
